@@ -5,3 +5,5 @@ Otro cambio subido al main
 Esto solo es visible en nuevaRama
 
 A donde se subio con rama local nuevaRama y git push origin
+
+Cambio con el commando :  git push origin nuevaRama y desde el local en nuevaRama
