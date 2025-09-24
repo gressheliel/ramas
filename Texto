@@ -9,3 +9,9 @@ A donde se subio con rama local nuevaRama y git push origin
 Cambio con el commando :  git push origin nuevaRama y desde el local en nuevaRama
 
 Otro cambio en nueva rama
+
+Conclusion 
+LOCAL                                         			      REMOTO
+nuevaRama 	git push --set-upstream origin nuevaRama              Sube y crea la rama, se hace la primera vez
+nuevaRama       git push origin					      Sube cambio a nuevaRama
+nuevaRama       git push origin nuevaRama                             Sube cambio a nuevaRama
